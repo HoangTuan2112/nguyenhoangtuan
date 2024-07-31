@@ -45,6 +45,7 @@ export default function ChemicalApp() {
 
         <AddChemical></AddChemical>
         <div className="searchBar">
+        <h1  className="search">Search</h1>
           {/* enter moi search ra theo name z chi name co */}
           <Input
             className="search"
